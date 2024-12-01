@@ -55,11 +55,11 @@ do
 #### Converbal Suffixes
 
 *These take the place of a tense marker, and the first vowel of these is
-consequently stressed.*
-**-a** - combines verbs
-    **Naf-il dan neles akhand ildek-á usil-í-me din-ak.**
-    2-ERG\[SG] rock blue eight\[ABS] find-CVB take-PRS-IMP 1-DAT\[SG]
-    "Fetch (lit. find and take) me eight blue rocks."
+consequently stressed.*  
+**-a** - combines verbs sequentially (in time)  
+    **Naf-il dan neles akhand ildek-á usil-í-me din-ak.**  
+    2-ERG\[SG] rock blue eight\[ABS] find-CVB take-PRS-IMP 1-DAT\[SG]  
+    "Fetch (lit. find \[for] and then take \[to]) me eight blue rocks."  
 
 ## Nouns
 
@@ -99,6 +99,7 @@ carelessly')
 **luk** - *3p sing.* it, they, something  
     **halúk** - *3p pl.*  
 **sil** - *relfexive pronoun*  
+**men** - *indefinite pronoun*  
 
 ## Adjectives
 

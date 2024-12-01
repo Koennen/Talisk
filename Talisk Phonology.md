@@ -4,18 +4,12 @@
 
 The phonology of [[Talisk]] avoids bilabial plosives.
 
-|                     | Bilabial | Labiodental | Dental | Alveolar | Velar |
-Glottal |
-| ------------------- | -------- | ----------- | ------ | -------- | ----- |
-------- |
-| Plosive             |          |             |        | t        | k     |
-|
-| Nasal               | m        |             |        | n        |       |
-|
-| Fricative           |          | f           | d      | s        | (h)   |
-h       |
-| Lateral Approximant |          |             |        | l        |       |
-|
+|                     | Bilabial | Labiodental | Dental | Alveolar | Velar | Glottal |
+| ------------------- | -------- | ----------- | ------ | -------- | ----- | ------- |
+| Plosive             |          |             |        | t        | k     |         |
+| Nasal               | m        |             |        | n        |       |         |
+| Fricative           |          | f           | d      | s        | (h)   | h       |
+| Lateral Approximant |          |             |        | l        |       |         |
 
 ## Vowels
 
