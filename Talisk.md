@@ -4,9 +4,9 @@ I imagine the Talísk people to be in the northeastern United States, at least i
 
 NOTE: The titles of each page will not include the accented i in the name of the language. This is for technical reasons.
 
-[[Talisk Phonology|Talísk Phonology]]
-[[Talisk Grammar|Talísk Grammar]]
-[[Talisk Lexicon|Talísk Lexicon]]
-[[Talisk Numbers and Mathematics|Talísk Numbers and Mathematics]]
+[[Talisk Phonology|Talísk Phonology]]  
+[[Talisk Grammar|Talísk Grammar]]  
+[[Talisk Lexicon|Talísk Lexicon]]  
+[[Talisk Numbers and Mathematics|Talísk Numbers and Mathematics]]  
 
-Return to [[Constructed Languages]]
+*Return to [[Constructed Languages]]*
