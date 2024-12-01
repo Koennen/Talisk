@@ -1,6 +1,7 @@
 # Talísk Grammar
 
-Grammatically, [[Talisk|Talísk]] is very regular. The
+Grammatically, [Talísk](https://github.com/Koennen/Conlangs/blob/main/Talisk.md)
+is very regular. The
 [Dime language's](https://en.wikipedia.org/wiki/Dime_language) practice of
 marking case on noun phrases rather than nouns was the feature of the language
 that struck me as the most interesting, and I implemented it here.
@@ -37,11 +38,12 @@ Affixes for case apply after any prefixes because they modify nouns as a whole.
 
 #### The Stem
 
-All verbs in Talísk begin with a [[Talisk Lexicon#Verbs|stem]]. Verb stems are
-either intransitive (taking only one argument) or transitive (taking two or
-more arguments).
-All transitive verbs in Talísk are strictly so, and must take an agent, as the
-absence of one marks the [[#The Antipassive|antipassive]].
+All verbs in Talísk begin with a
+[stem](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Lexicon.md#verbs).
+Verb stems are either intransitive (taking only one argument) or transitive
+(taking two or more arguments). All transitive verbs in Talísk are strictly so,
+and must take an agent, as the absence of one marks the
+[antipassive](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Grammar.md#the-antipassive).
 
 #### Tense, Aspect, and Mood
 
@@ -61,7 +63,8 @@ the present form.
 
 #### Verbal Suffixes
 
-[[Talisk Lexicon#Verbal Suffixes|Verbal suffixes]] attach after the tense marker.
+[Verbal suffixes](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Lexicon.md#verbal-suffixes)
+attach after the tense marker.
 
 ### The Reflexive
 
@@ -90,7 +93,9 @@ lit. "They seat themself."
 The reflexive pronoun *may* mark the omission of an agent in transitive clauses,
 but this interpretation depends on the verb. Alternate interpretations (valid in
 some dialects) are preceded with '%' to mark their rarity. (Most speakers would
-use the [[#The Antipassive|antipassive]] to indicate these secondary meanings.)
+use the
+[antipassive](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Grammar.md#the-antipassive)
+to indicate these secondary meanings.)
 
 **Sil talif ul-í.**  
 REFL\[ERG] tree\[ABS.SG] burn-PRS  
