@@ -164,7 +164,7 @@ PROX.DET-dog\[ABS] two sleep-AOR
 2-ERG\[SG] see-PRS DIST.DET-tree\[SG] small  
 "Do you see that small tree?"  
 
-* ***Na-lek-í.**  
+* **Na-lek-í.**  
 NEG-see-PRS  
 "I do not see."  
 
