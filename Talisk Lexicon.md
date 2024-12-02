@@ -4,7 +4,8 @@
 
 ## Verbs
 
-*Conjugated forms of verbs must end in a vowel.*  
+*Conjugated forms of verbs must end in a vowel.*
+
 **suld** - *vtr.* to drink, lick  
 **unf** - *vtr.* to eat, bite  
 **ad** - *vtr.* to scratch, mark  
@@ -55,15 +56,18 @@ do
 #### Converbal Suffixes
 
 *These take the place of a tense marker, and the first vowel of these is
-consequently stressed.*  
+consequently stressed.*
+
 **-a** - combines verbs sequentially (in time)  
-    **Naf-il dan neles akhand ildek-á usil-í-me din-ak.**  
-    2-ERG\[SG] rock blue eight\[ABS] find-CVB take-PRS-IMP 1-DAT\[SG]  
-    "Fetch (lit. find \[for] and then take \[to]) me eight blue rocks."  
+
+* **Naf-il dan neles akhand ildek-á usil-í-me din-ak.**  
+2-ERG\[SG] rock blue eight\[ABS] find-CVB take-PRS-IMP 1-DAT\[SG]  
+"Fetch (lit. find \[for] and then take \[to]) me eight blue rocks."  
 
 ## Nouns
 
-*Nouns must begin and end with a consonant.*  
+*Nouns must begin and end with a consonant.*
+
 **lisk** - *count.* person  
 **mink** - *count.* small child  
 **sulk** - *count.* adolescent  
@@ -91,7 +95,8 @@ carelessly')
 
 ## Pronouns
 
-*Pronouns must begin and end with a consonant.*  
+*Pronouns must begin and end with a consonant.*
+
 **din** - *1p sing.*  
     **hadín** - *1p pl.*  
 **naf** - *2p sing.*  
@@ -106,12 +111,14 @@ carelessly')
 *All adjectives must end in a consonant.*  
 *Standard adjectives and those derived from verbs (of the form **e** +
 \[verb w/ neutral vowel] + **s**) must begin with a vowel.*  
+
 **ahun** - small  
 **inin** - big  
 **etuskes**  - old  
 **emines** - young  
 
 *Adjectives derived from nouns must begin with **ne-**.*  
+
 **netalif** - dark green, dark brown, dark red (ochres, umbers, and suchlike)
 \[derived from **talif**]  
 **neles** - pale green, pale blue \[derived from **sles**]  
@@ -131,7 +138,9 @@ from **kuln**]
 
 See
 [Talisk Numbers and Mathematics](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Numbers%20and%20Mathematics.md)  
+
 *Numerals must begin with a vowel and end with a consonant.*  
+
 **usin** - zero (0)  
 **at** - one (1)  
 **ek** - two (2)  
@@ -144,7 +153,7 @@ See
 
 ## Expressions
 
-**Din fultef ta-náf-en.**  
+* **Din fultef ta-náf-en.**  
 1\[ABS.SG] {door GEN-2\[SG]}-LOC  
 "I am at your door."  
 Used as a request to enter someone's house. It is more polite than just asking

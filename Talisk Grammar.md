@@ -163,9 +163,10 @@ PROX.DET-dog\[ABS] two sleep-AOR
 **Naf-il lek-í li-tálif ahun?**  
 2-ERG\[SG] see-PRS DIST.DET-tree\[SG] small  
 "Do you see that small tree?"  
-    **Na-lek-í.**  
-    NEG-see-PRS  
-    "I do not see."  
+
+* ***Na-lek-í.**  
+NEG-see-PRS  
+"I do not see."  
 
 **Luk-il lisk inin ud lut-ínu.**  
 3-ERG\[SG] person large three\[ABS] hear-DIST.PST  
