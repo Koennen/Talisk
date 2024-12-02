@@ -64,7 +64,7 @@ consequently stressed.*
 **-a** - combines verbs sequentially (in time)  
 
 * **Naf-il dan neles akhand ildek-á-lna usil-í-me din-ak.**  
-2-ERG\[SG] rock blue eight\[ABS] find-CVB take-PRS-IMP 1-DAT\[SG]  
+2-ERG\[SG] rock blue eight\[ABS] find-CVB-SUCC take-PRS-IMP 1-DAT\[SG]  
 "Fetch (lit. seek \[for] and then take \[to]) me eight blue rocks."  
 
 ## Nouns
