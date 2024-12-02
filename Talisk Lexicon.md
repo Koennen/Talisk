@@ -14,7 +14,7 @@
 **end** - *vin.* to sleep  
 **ik** - *vin.* to walk, go  
 **nak** - *vin.* to swim  
-**ildek** - *vtr.* to find  
+**ildek** - *vtr.* to seek \[i_d circumfix? here denoting more sophisticated actions than the base word (lek-)]  
 **in** - *vtr.* to kill  
 **alf** - *vin.* to fly  
 **ket** - *vin.* to come  
@@ -24,11 +24,11 @@
 **dus** - *vtr.* to give  
 **isk** - *vtr.* to say, tell  
 **ul** - *vtr.* to burn  
-**aldul** - *vtr.* to cook  
-**kenal** - *vtr.* to bind  
+**aldul** - *vtr.* to cook \[becomes ald when the stem has no initial consonant]  
+**kenal** - *vtr.* to bind \[derived from a noun (ken)]  
 **del** - *vin.* to laugh  
 **sul** - *vin.* to cry  
-**isdul** - *vin.* to mourn  
+**isdul** - *vin.* to mourn \[another instance of that sophistication circumfix]  
 **klef** - *vtr.* to throw  
 **al** - *vtr.* to shape, form  
 **tusk** - *vin.* to age  
@@ -62,7 +62,7 @@ consequently stressed.*
 
 * **Naf-il dan neles akhand ildek-á usil-í-me din-ak.**  
 2-ERG\[SG] rock blue eight\[ABS] find-CVB take-PRS-IMP 1-DAT\[SG]  
-"Fetch (lit. find \[for] and then take \[to]) me eight blue rocks."  
+"Fetch (lit. seek \[for] and then take \[to]) me eight blue rocks."  
 
 ## Nouns
 
@@ -82,10 +82,9 @@ consequently stressed.*
 **ken** - *count.* thread, twine  
 **huken** - *count.* thick rope  
 **kuln** - *count.* single hair on head  
-**nekuln** - *count.* single hair on face  
+**sekuln** - *count.* single hair on face  
 **makuln** - *count.* single body hair  
 **flet** - *uncount.* pubic hair  
-**men** - *count.* generic "thing"  
 **halféksuftik** - *count.* housefly (lit. 'that which always flies
 carelessly')  
 **seldad** - *count.* house  
