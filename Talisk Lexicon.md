@@ -129,7 +129,8 @@ from **kuln**]
 
 ### Numerals
 
-See [[Talisk Numbers and Mathematics]]  
+See
+[Talisk Numbers and Mathematics](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Numbers%20and%20Mathematics.md)  
 *Numerals must begin with a vowel and end with a consonant.*  
 **usin** - zero (0)  
 **at** - one (1)  
