@@ -45,13 +45,16 @@ with a consonant and end with a vowel.*
 
 **-kla** - to do badly  
 **-ksu** - to do carelessly  
+**-fti** - to do slowly 
 **-le** - to do several times in succession  
-**-fti** - to do often, as a habit  
 **-si** - (of several people) to do individually at the same time, to 'each'
 do  
 **-nda** - (of several people) to do in succession, to take turns doing  
 **-me** - imperative marker  
 **-nku** - to do with/by force  
+**-lna-** - to finish doing (having succeeded)  
+**-khe-** - to finish doing (having failed)  
+**-tu-** - to attempt to do
 
 #### Converbal Suffixes
 
