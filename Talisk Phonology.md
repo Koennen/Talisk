@@ -2,7 +2,7 @@
 
 ## Consonants
 
-The phonology of [[Talisk]] avoids bilabial plosives.
+The phonology of Talisk avoids bilabial plosives.
 
 |                     | Bilabial | Labiodental | Dental | Alveolar | Velar | Glottal |
 | ------------------- | -------- | ----------- | ------ | -------- | ----- | ------- |
