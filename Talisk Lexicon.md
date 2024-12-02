@@ -52,9 +52,9 @@ do
 **-nda** - (of several people) to do in succession, to take turns doing  
 **-me** - imperative marker  
 **-nku** - to do with/by force  
-**-lna-** - to finish doing (having succeeded)  
-**-khe-** - to finish doing (having failed)  
-**-tu-** - to attempt to do
+**-lna** - to finish doing (having succeeded)  
+**-khe** - to finish doing (having failed)  
+**-tu** - to attempt to do
 
 #### Converbal Suffixes
 
@@ -63,7 +63,7 @@ consequently stressed.*
 
 **-a** - combines verbs sequentially (in time)  
 
-* **Naf-il dan neles akhand ildek-á usil-í-me din-ak.**  
+* **Naf-il dan neles akhand ildek-á-lna usil-í-me din-ak.**  
 2-ERG\[SG] rock blue eight\[ABS] find-CVB take-PRS-IMP 1-DAT\[SG]  
 "Fetch (lit. seek \[for] and then take \[to]) me eight blue rocks."  
 
