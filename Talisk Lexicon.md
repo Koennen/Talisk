@@ -4,7 +4,7 @@
 
 ## Verbs
 
-*Conjugated forms of verbs must end in a vowel.*
+*Conjugated forms of verbs must end with a vowel.*
 
 **suld** - *vtr.* to drink, lick  
 **unf** - *vtr.* to eat, bite  
@@ -154,7 +154,7 @@ See
 ## Expressions
 
 * **Din fultef ta-náf-en.**  
-1\[ABS.SG] {door GEN-2\[SG]}-LOC  
+1\[ABS.SG] {door\[ABS.SG] GEN-2\[SG]}-LOC  
 "I am at your door."  
 Used as a request to enter someone's house. It is more polite than just asking
 to be let in.
