@@ -1,7 +1,5 @@
 # Talísk Lexicon
 
-**NO WORD SHOULD EVER BEGIN WITH *ha-***
-
 ## Verbs
 
 *Conjugated forms of verbs must end with a vowel.*
@@ -25,7 +23,7 @@
 **isk** - *vtr.* to say, tell  
 **ul** - *vtr.* to burn  
 **aldul** - *vtr.* to cook \[becomes ald when the stem has no initial consonant]  
-**kenal** - *vtr.* to bind \[derived from a noun (ken)]  
+**kenal** - *vtr.* to bind, tie \[derived from a noun (ken)]  
 **del** - *vin.* to laugh  
 **sul** - *vin.* to cry  
 **isdul** - *vin.* to mourn \[another instance of that sophistication circumfix]  
@@ -35,22 +33,28 @@
 **min** - *vin.* to be born  
 **atsk** - *vin.* to die  
 **usil** - *vtr.* to take/obtain/receive  
+**fend** - *vtr.* to greet  
+**mus** - *vin.* to sweat  
+**meld** - *vtr.* to grip, hold  
+**hun** - *vtr.* to sing  
 
 ### Verbal Suffixes
 
-*Verbal suffixes follow the tense suffix. Many may be stacked. They must begin
-with a consonant and end with a vowel.*
-
 #### Aspectual and Modal Suffixes
 
-**-kla** - to do badly  
-**-ksu** - to do carelessly  
+*These follow the tense suffix. Many may be stacked. They must begin
+with a consonant and end with a vowel. None may have **h** as their sole consonant.*
+
+**-kla** - to do well  
+**-nkla** - to do badly  
+**-ksu** - to do carefully  
+**-nksu** - to do carelessly  
 **-fti** - to do slowly 
 **-le** - to do several times in succession  
 **-si** - (of several people) to do individually at the same time, to 'each'
 do  
 **-nda** - (of several people) to do in succession, to take turns doing  
-**-me** - imperative marker  
+**-me** - imperative marker \[will always attach to the last verb in a chain of commands]  
 **-nku** - to do with/by force  
 **-lna** - to finish doing (having succeeded)  
 **-khe** - to finish doing (having failed)  
@@ -58,14 +62,20 @@ do
 
 #### Converbal Suffixes
 
-*These take the place of a tense marker, and the first vowel of these is
-consequently stressed.*
+*These take the place of the tense suffix, and their first vowel is
+consequently stressed. They are either single vowels, or two vowels separated by **h**.*
 
 **-a** - combines verbs sequentially (in time)  
 
 * **Naf-il dan neles akhand ildek-á-lna usil-í-me din-ak.**  
 2-ERG\[SG] rock blue eight\[ABS] find-CVB-SUCC take-PRS-IMP 1-DAT\[SG]  
 "Fetch (lit. seek \[for] and then take \[to]) me eight blue rocks."  
+
+**-uha** - combines verbs simultaneously
+
+* **Naf-il le-núlus meld-úha-ksu al-í-fti-me ene ha-séldad.**  
+2-ERG\[SG] PROX.DET-sand\[ABS.SG] grasp-CVB-CAREFULLY form-PRS-SLOWLY-IMP into PL-house\[ABS]  
+"As you carefully hold the sand, slowly form it into houses."  
 
 ## Nouns
 
@@ -110,7 +120,7 @@ carelessly')
 
 ## Adjectives
 
-*All adjectives must end in a consonant.*  
+*All adjectives must end with a consonant.*  
 *Standard adjectives and those derived from verbs (of the form **e** +
 \[verb w/ neutral vowel] + **s**) must begin with a vowel.*  
 
@@ -121,7 +131,7 @@ carelessly')
 
 *Adjectives derived from nouns must begin with **ne-**.*  
 
-**netalif** - dark green, dark brown, dark red (ochres, umbers, and suchlike)
+**nesalif** - dark green, dark brown, dark red (ochres, umbers, and suchlike)
 \[derived from **talif**]  
 **neles** - pale green, pale blue \[derived from **sles**]  
 **nenlus** - pale yellow, light tan, white \[derived from **nulus**]  
