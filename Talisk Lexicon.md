@@ -12,7 +12,8 @@
 **end** - *vin.* to sleep  
 **ik** - *vin.* to walk, go  
 **nak** - *vin.* to swim  
-**ildek** - *vtr.* to seek \[i_d circumfix? here denoting more sophisticated actions than the base word (lek-)]  
+**ildek** - *vtr.* to seek \[i_d circumfix? here denoting more sophisticated
+actions than the base word (lek-)]  
 **in** - *vtr.* to kill  
 **alf** - *vin.* to fly  
 **ket** - *vin.* to come  
@@ -22,11 +23,13 @@
 **dus** - *vtr.* to give  
 **isk** - *vtr.* to say, tell  
 **ul** - *vtr.* to burn  
-**aldul** - *vtr.* to cook \[becomes ald when the stem has no initial consonant]  
+**aldul** - *vtr.* to cook \[becomes ald when the stem has no initial
+consonant]  
 **kenal** - *vtr.* to bind, tie \[derived from a noun (ken)]  
 **del** - *vin.* to laugh  
 **sul** - *vin.* to cry  
-**isdul** - *vin.* to mourn \[another instance of that sophistication circumfix]  
+**isdul** - *vin.* to mourn \[another instance of that sophistication
+circumfix]  
 **klef** - *vtr.* to throw  
 **al** - *vtr.* to shape, form  
 **tusk** - *vin.* to age  
@@ -49,12 +52,13 @@ with a consonant and end with a vowel. None may have **h** as their sole consona
 **-nkla** - to do badly  
 **-ksu** - to do carefully  
 **-nksu** - to do carelessly  
-**-fti** - to do slowly 
+**-fti** - to do slowly  
 **-le** - to do several times in succession  
 **-si** - (of several people) to do individually at the same time, to 'each'
 do  
 **-nda** - (of several people) to do in succession, to take turns doing  
-**-me** - imperative marker \[will always attach to the last verb in a chain of commands]  
+**-me** - imperative marker \[will always attach to the last verb in a chain of
+commands]  
 **-nku** - to do with/by force  
 **-lna** - to finish doing (having succeeded)  
 **-khe** - to finish doing (having failed)  
@@ -63,7 +67,8 @@ do
 #### Converbal Suffixes
 
 *These take the place of the tense suffix, and their first vowel is
-consequently stressed. They are either single vowels, or two vowels separated by **h**.*
+consequently stressed. They are either single vowels, or two vowels separated
+by **h**.*
 
 **-a** - combines verbs sequentially (in time)  
 
@@ -74,7 +79,8 @@ consequently stressed. They are either single vowels, or two vowels separated by
 **-uha** - combines verbs simultaneously
 
 * **Naf-il le-núlus meld-úha-ksu al-í-fti-me ene ha-séldad.**  
-2-ERG\[SG] PROX.DET-sand\[ABS.SG] grasp-CVB-CAREFULLY form-PRS-SLOWLY-IMP into PL-house\[ABS]  
+2-ERG\[SG] PROX.DET-sand\[ABS.SG] grasp-CVB-CAREFULLY form-PRS-SLOWLY-IMP as
+PL-house\[ABS]  
 "As you carefully hold the sand, slowly form it into houses."  
 
 ## Nouns
