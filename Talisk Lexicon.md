@@ -188,5 +188,5 @@ Used in informal contexts when one person is greeting another party.
 
 * **Had'endí!**  
 PL-1\[ABS] greet-PRS  
-"Hello!"
+"Hello!"  
 Used in informal contexts when two or more people are greeting another party.  
