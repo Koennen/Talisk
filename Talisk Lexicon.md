@@ -8,12 +8,14 @@
 **unf** - *vtr.* to eat, bite  
 **ad** - *vtr.* to scratch, mark  
 **lek** - *vtr.* to see  
+**ildek** - *vtr.* to seek \[i_d circumfix? here denoting more sophisticated
+actions than the base word (lek-)]  
 **ef** - *vtr.* to know  
 **end** - *vin.* to sleep  
 **ik** - *vin.* to walk, go  
 **nak** - *vin.* to swim  
-**ildek** - *vtr.* to seek \[i_d circumfix? here denoting more sophisticated
-actions than the base word (lek-)]  
+**indak** - *vtr.* to bathe \[note the change in transitivity. May change that
+later...]  
 **in** - *vtr.* to kill  
 **alf** - *vin.* to fly  
 **ket** - *vin.* to come  
@@ -21,15 +23,15 @@ actions than the base word (lek-)]
 **enk** - *vin.* to sit  
 **fik** - *vin.* to stand  
 **dus** - *vtr.* to give  
+**idus** - *vtr.* to gift, present \[if the first consonant of the stem is d or
+t, only i is added]  
 **isk** - *vtr.* to say, tell  
 **ul** - *vtr.* to burn  
-**aldul** - *vtr.* to cook \[becomes ald when the stem has no initial
-consonant]  
-**kenal** - *vtr.* to bind, tie \[derived from a noun (ken)]  
+**adul** - *vtr.* to cook \[becomes ad when the stem has no initial consonant]  
+**kenal** - *vtr.* to bind \[derived from a noun (ken)]  
 **del** - *vin.* to laugh  
 **sul** - *vin.* to cry  
-**isdul** - *vin.* to mourn \[another instance of that sophistication
-circumfix]  
+**isdul** - *vin.* to mourn  
 **klef** - *vtr.* to throw  
 **al** - *vtr.* to shape, form  
 **tusk** - *vin.* to age  
@@ -74,7 +76,7 @@ by **h**.*
 
 * **Naf-il dan neles akhand ildek-á-lna usil-í-me din-ak.**  
 2-ERG\[SG] rock blue eight\[ABS] find-CVB-SUCC take-PRS-IMP 1-DAT\[SG]  
-"Fetch (lit. seek \[for] and then take \[to]) me eight blue rocks."  
+"Fetch (lit. seek and pick up for) me eight blue rocks."  
 
 **-uha** - combines verbs simultaneously
 
