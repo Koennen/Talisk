@@ -2,7 +2,7 @@
 
 ## Verbs
 
-*Conjugated forms of verbs must end with a vowel.*
+*Conjugated forms of verbs must end with a vowel.*  
 
 **suld** - *vtr.* to drink, lick  
 **unf** - *vtr.* to eat, bite  
@@ -48,7 +48,8 @@ t, only i is added]
 #### Aspectual and Modal Suffixes
 
 *These follow the tense suffix. Many may be stacked. They must begin
-with a consonant and end with a vowel. None may have **h** as their sole consonant.*
+with a consonant and end with a vowel. None may have **h** as their sole
+consonant.*  
 
 **-kla** - to do well  
 **-nkla** - to do badly  
@@ -70,7 +71,7 @@ commands]
 
 *These take the place of the tense suffix, and their first vowel is
 consequently stressed. They are either single vowels, or two vowels separated
-by **h**.*
+by **h**.*  
 
 **-a** - combines verbs sequentially (in time)  
 
@@ -87,7 +88,7 @@ PL-house\[ABS]
 
 ## Nouns
 
-*Nouns must begin and end with a consonant.*
+*Nouns must begin and end with a consonant.*  
 
 **lisk** - *count.* person  
 **mink** - *count.* small child  
@@ -115,7 +116,7 @@ carelessly')
 
 ## Pronouns
 
-*Pronouns must begin and end with a consonant.*
+*Pronouns must begin and end with a consonant.*  
 
 **din** - *1p sing.*  
     **hadín** - *1p pl.*  
@@ -177,4 +178,15 @@ See
 1\[ABS.SG] {door\[ABS.SG] GEN-2\[SG]}-LOC  
 "I am at your door."  
 Used as a request to enter someone's house. It is more polite than just asking
-to be let in.
+to be let in.  
+
+* **D'fendí!**  
+1\[ABS.SG] greet-PRS  
+"Hello!"  
+Used in informal contexts when one person is greeting another party.  
+\[This is an antipassive construction that omits the object of the sentence.]  
+
+* **Had'endí!**  
+PL-1\[ABS] greet-PRS  
+"Hello!"
+Used in informal contexts when two or more people are greeting another party.  
