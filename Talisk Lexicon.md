@@ -33,7 +33,7 @@ t, only i is added]
 **sul** - *vin.* to cry  
 **isdul** - *vin.* to mourn  
 **klef** - *vtr.* to throw  
-**al** - *vtr.* to shape, form  
+**al** - *vtr.* to shape, form \[this verb can incorporate nouns]  
 **tusk** - *vin.* to age  
 **min** - *vin.* to be born  
 **atsk** - *vin.* to die  
@@ -81,9 +81,8 @@ by **h**.*
 
 **-uha** - combines verbs simultaneously
 
-* **Naf-il le-núlus meld-úha-ksu al-í-fti-me ene ha-séldad.**  
-2-ERG\[SG] PROX.DET-sand\[ABS.SG] grasp-CVB-CAREFULLY form-PRS-SLOWLY-IMP as
-PL-house\[ABS]  
+* **Naf-il le-núlus meld-úha-ksu seldad-al-í-fti-me.**  
+2-ERG\[SG] PROX.DET-sand\[ABS.SG] grasp-CVB-CAREFULLY house-form-PRS-SLOWLY-IMP  
 "As you carefully hold the sand, slowly form it into houses."  
 
 ## Nouns
