@@ -185,7 +185,7 @@ to be let in.
 Used in informal contexts when one person is greeting another party.  
 \[This is an antipassive construction that omits the object of the sentence.]  
 
-* **Had'endí!**  
+* **Ha-d'endí!**  
 PL-1\[ABS] greet-PRS  
 "Hello!"  
 Used in informal contexts when two or more people are greeting another party.  
