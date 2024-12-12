@@ -14,8 +14,7 @@ actions than the base word (lek-)]
 **end** - *vin.* to sleep  
 **ik** - *vin.* to walk, go  
 **nak** - *vin.* to swim  
-**indak** - *vtr.* to bathe \[note the change in transitivity. May change that
-later...]  
+**indak** - *vin.* to bathe  
 **in** - *vtr.* to kill  
 **alf** - *vin.* to fly  
 **ket** - *vin.* to come  
@@ -42,6 +41,12 @@ t, only i is added]
 **mus** - *vin.* to sweat  
 **meld** - *vtr.* to grip, hold  
 **hun** - *vtr.* to sing  
+**tand** - *vtr.* to rub  
+**kifl** - *vtr.* to cover  
+**mask** - *vtr.* to want, need, require  
+**imdask** - *vtr.* to long for  
+**sefk** - *vtr.* to love  
+**kat** - *vin.* to move  
 
 ### Verbal Suffixes
 
@@ -112,6 +117,7 @@ carelessly')
 **lad** - *count.* interior wall/screen/room divider  
 **smul** - *count.* exterior wall  
 **fultef** - *count.* door/gate  
+**kim** - *count.* friend  
 
 ## Pronouns
 
