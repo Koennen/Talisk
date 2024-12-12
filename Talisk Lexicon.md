@@ -205,3 +205,7 @@ Used in informal contexts when one person is greeting another party.
 PL-1\[ABS] greet-PRS  
 "Hello!"  
 Used in informal contexts when two or more people are greeting another party.  
+
+* **Din-il naf sefké.**  
+1-ERG\[SG] 2\[ABS.SG] love-AOR  
+"I love you."  
