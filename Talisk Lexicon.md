@@ -84,19 +84,19 @@ by **h**.*
 2-ERG\[SG] rock blue eight\[ABS] find-CVB-SUCC take-PRS-IMP 1-DAT\[SG]  
 "Fetch (lit. seek and pick up for) me eight blue rocks."  
 
-* **Luk fend-á din-il lek-í.**
-3\[ABS.SG] greet-CVB 1-ERG\[SG] see-PRS
+* **Luk fend-á din-il lek-í.**  
+3\[ABS.SG] greet-CVB 1-ERG\[SG] see-PRS  
 "She greeted \[me] and I saw her."  
 
 **-uha** - combines verbs simultaneously
 
 * **Naf-il le-núlus meld-úha-ksu seldad-al-í-fti-me.**  
-2-ERG\[SG] PROX.DET-sand\[ABS.SG] grasp-CVB-CAREFULLY house-form-PRS-SLOWLY-IMP  
+2-ERG\[SG] PROX.DET-sand\[ABS.SG] grasp-CVB-CAREFUL house-form-PRS-SLOWLY-IMP  
 "As you carefully hold the sand, slowly form it into houses."  
 
 **-ihi** - combines verbs in reverse chronological order  
 
-* **Luk fend-íhi din-il lek-í.**
+* **Luk fend-íhi din-il lek-í.**  
 3\[ABS.SG] greet-CVB 1-ERG\[SG] see-PRS  
 "I saw her and she greeted \[me]."  
 
