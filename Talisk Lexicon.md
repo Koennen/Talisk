@@ -46,7 +46,7 @@ t, only i is added]
 **mask** - *vtr.* to want, need, require  
 **imdask** - *vtr.* to long for  
 **sefk** - *vtr.* to love  
-**kat** - *vin.* to move  
+**kel** - *vin.* to move, walk  
 
 ### Verbal Suffixes
 
@@ -128,6 +128,13 @@ carelessly')
 **smul** - *count.* exterior wall  
 **fultef** - *count.* door/gate  
 **kim** - *count.* friend  
+**safil** - *uncount.* rain  
+**kuh** - *count.* body  
+**seh** - *count.* face  
+**keldun** - *count.* road, path, trail  
+**denis** - *count.* lake  
+**deslin** - *count.* ocean  
+**dadan** - *count.* blood  
 
 ## Pronouns
 
