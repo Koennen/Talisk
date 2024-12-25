@@ -33,13 +33,15 @@ t, only i is added]
 **isdul** - *vin.* to mourn  
 **klef** - *vtr.* to throw  
 **al** - *vtr.* to shape, form \[this verb can incorporate nouns]  
+**adal** - *vin.* to change, transform  
 **tusk** - *vin.* to age  
 **min** - *vin.* to be born  
 **atsk** - *vin.* to die  
-**usil** - *vtr.* to take/obtain/receive  
+**usil** - *vtr.* to take/obtain/receive/pick up  
+**adusil** - *vtr.* to learn  
 **fend** - *vtr.* to greet  
 **mus** - *vin.* to sweat  
-**meld** - *vtr.* to grip, hold  
+**meld** - *vtr.* to grip, hold; understand  
 **hun** - *vtr.* to sing  
 **tand** - *vtr.* to rub  
 **kifl** - *vtr.* to cover  
