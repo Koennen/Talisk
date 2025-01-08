@@ -15,11 +15,11 @@ The phonology of Talísk avoids bilabial plosives.
 
 Talisk has only four vowels.
 
-|           | Front | Central | Back |
-| --------- | ----- | ------- | ---- |
-| High      | i     |         | u    |
-| Close-mid | e     |         |      |
-| Open      | a     |         |      |
+|           | Front | Back |
+| --------- | ----- | ---- |
+| High      | i     | u    |
+| Close-mid | e     |      |
+| Open      | a     |      |
 
 ## Phonotactics and Prosody
 
