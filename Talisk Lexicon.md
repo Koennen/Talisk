@@ -26,6 +26,7 @@ actions than the base word (lek-)]
 t, only i is added]  
 **isk** - *vtr.* to say, tell  
 **ul** - *vtr.* to burn  
+**lut** - *vtr.* to hear  
 **adul** - *vtr.* to cook \[becomes ad when the stem has no initial consonant]  
 **kenal** - *vtr.* to bind \[derived from a noun (ken)]  
 **del** - *vin.* to laugh  
