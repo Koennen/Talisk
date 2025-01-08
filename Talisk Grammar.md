@@ -94,18 +94,18 @@ The reflexive pronoun *may* mark the omission of an agent in transitive clauses,
 but this interpretation depends on the verb. Alternate interpretations (valid in
 some dialects) are preceded with '%' to mark their rarity. (Most speakers would
 use the
-[antipassive](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Grammar.md#the-antipassive)
+[indefinite](https://github.com/Koennen/Talisk/blob/main/Talisk%20Grammar.md#the-indefinite-simulating-the-passive)
 to indicate these secondary meanings.)
 
 **Sil talif ul-í.**  
 REFL\[ERG] tree\[ABS.SG] burn-PRS  
 lit. "A tree burns itself."  
-%"A tree burns/is burning."  
+%"A tree is burning."  
 
 **Sil lusk lek-í.**  
 REFL\[ERG] adult\[ABS.SG] see-PRS  
 lit. "An adult sees themself."  
-\%%"An adult is seen."  
+\%%"An adult is being seen."  
 
 ### The Antipassive
 
