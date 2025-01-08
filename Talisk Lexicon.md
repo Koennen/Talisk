@@ -42,7 +42,7 @@ t, only i is added]
 **fend** - *vtr.* to greet  
 **mus** - *vin.* to sweat  
 **meld** - *vtr.* to grip, hold; understand  
-**hun** - *vtr.* to sing  
+**sun** - *vtr.* to sing  
 **tand** - *vtr.* to rub  
 **kifl** - *vtr.* to cover  
 **mask** - *vtr.* to want, need, require  
