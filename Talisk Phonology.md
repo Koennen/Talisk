@@ -7,7 +7,7 @@ The phonology of Talísk avoids bilabial plosives.
 |                     | Bilabial | Labiodental | Dental | Alveolar | Velar | Glottal |
 | ------------------- | -------- | ----------- | ------ | -------- | ----- | ------- |
 | Plosive             |          |             |        | t        | k     |         |
-| Nasal               | m        |             |        | n        |       |         |
+| Nasal               | m        |             |        | n        | (n)   |         |
 | Fricative           |          | f           | d      | s        | (h)   | h       |
 | Lateral Approximant |          |             |        | l        |       |         |
 
