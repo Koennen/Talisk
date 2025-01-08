@@ -80,13 +80,17 @@ REFL\[ERG] 2\[ABS.SG] burn-REC.PST
 ##### The Reflexive and Intransitive Verbs
 
 The reflexive pronoun may be used with intransitive verbs, especially those
-describing a temporary state. Here the reflexive emphasizes the beginning or
+describing a temporary state. Here, the reflexive emphasizes the beginning or
 end of that state. This usage is uncommon in formal speech.
 
 **%Sil luk enk-í.**  
 REFL\[ERG] 3\[ABS.SG] sit-PRS  
 lit. "They seat themself."  
-"They sit down."  
+"They sit down." 
+
+**Luk enk-í.**  
+3\[ABS.SG] sit-PRS  
+"They are sitting."
 
 ##### Alternate Interpretations
 
