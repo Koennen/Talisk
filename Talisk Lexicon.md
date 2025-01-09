@@ -247,13 +247,13 @@ See
 
 ## Expressions
 
-* **Din fultef ta-náf-en.**  
+* **Din fultef ta-náf-em.**  
 1\[ABS.SG] {door\[ABS.SG] GEN-2\[SG]}-LOC  
 "I am at your door."  
 Used as a request to enter someone's house. It is more polite than just asking
 to be let in.  
 
-* **Naf fultef ta-dín-en.**  
+* **Naf fultef ta-dín-em.**  
 2\[ABS.SG\ {door\[ABS.SG] GEN-1\[SG]}-LOC  
 "You are at my door \[and there you will stay]."  
 Used to politely refuse a visitor.  
