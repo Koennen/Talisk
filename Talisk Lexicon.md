@@ -51,7 +51,7 @@ is d or t, only i is added]
 **mask** - *vtr.* to want, need, require  
 **imdask** - *vtr.* to long for  
 **sefk** - *vtr.* to love  
-**kel** - *vin.* to move, walk, go  
+**kel** - *vin.* to run  
 
 ### Verbal Suffixes
 
@@ -75,6 +75,8 @@ commands]
 **-nku** - to do with/by force  
 **-lna** - to finish doing (having succeeded)  
 **-khe** - to finish doing (having failed)  
+**-mfi** - to start doing  
+**-da** - to want to do  
 **-tu** - to attempt to do
 
 #### Converbal Suffixes
