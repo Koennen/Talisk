@@ -126,7 +126,7 @@ by **h**.*
 **sekuln** - *count.* single hair on face  
 **makuln** - *count.* single body hair  
 **flet** - *uncount.* pubic hair  
-**halféksuftik** - *count.* housefly (lit. 'that which always flies
+**halfénksuftik** - *count.* housefly (lit. 'that which always flies
 carelessly')  
 **seldad** - *count.* house  
 **lad** - *count.* interior wall/screen/room divider  
