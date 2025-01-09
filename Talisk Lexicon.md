@@ -36,8 +36,8 @@ is d or t, only i is added]
 **sul** - *vin.* to cry  
 **isdul** - *vin.* to mourn  
 **klef** - *vtr.* to throw  
-**al** - *vtr.* to shape, form \[this verb can incorporate nouns]  
-**adal** - *vin.* to change, transform  
+**al** - *vtr.* to shape, form \[the likeness takes the dative case]  
+**adal** - *vin.* to change, transform, metamorphose  
 **tusk** - *vin.* to age  
 **min** - *vin.* to be born  
 **atsk** - *vin.* to die  
@@ -48,7 +48,7 @@ is d or t, only i is added]
 **meld** - *vtr.* to grip, hold  
 **imdeld** - *vtr.* to understand  
 **sun** - *vtr.* to sing  
-**tand** - *vtr.* to rub  
+**tand** - *vtr.* to rub, pet  
 **itand** - *vtr.* to clean  
 **kifl** - *vtr.* to cover  
 **mask** - *vtr.* to want, need, require  
@@ -60,7 +60,7 @@ is d or t, only i is added]
 
 #### Aspectual and Modal Suffixes
 
-*These follow the tense suffix but are subservient to it in terms of semantic
+*These follow the tense suffix but are subordinate to it in terms of semantic
 scope (i.e. the tense applies to the word last). Many may be stacked. They must
 begin with a consonant and end with a vowel. None may have **h** as their sole
 consonant.*  
@@ -107,8 +107,9 @@ by **-h-**.*
 
 **-uha** - combines verbs simultaneously
 
-* **Naf-il le-núlus meld-úha-ksu seldad-al-í-fti-me.**  
-2-ERG\[SG] PROX.DET-sand\[ABS.SG] grasp-CVB-CAREFUL house-form-PRS-SLOWLY-IMP  
+* **Naf-il le-núlus meld-úha-ksu al-í-fti-me seldad-em.**  
+2-ERG\[SG] PROX.DET-sand\[ABS.SG] grasp-CVB-CAREFUL form-PRS-SLOWLY-IMP
+house-LOC  
 "As you carefully hold the sand, slowly form it into houses."  
 
 **-ihi** - combines verbs in reverse chronological order  
@@ -193,12 +194,15 @@ carelessly')
 *Pronouns must begin and end with a consonant.*  
 
 **din** - *1p sing.*  
+
 * **hadín** - *1p pl.*  
 
 **naf** - *2p sing.*  
+
 * **hanáf** - *2p pl.*  
 
 **luk** - *3p sing.* it, they, something  
+
 * **halúk** - *3p pl.*  
 
 **sil** - *relfexive pronoun*  
