@@ -133,7 +133,7 @@ carelessly')
 **smul** - *count.* exterior wall  
 **fultef** - *count.* door/gate  
 **kim** - *count.* friend  
-**safil** - *uncount.* rain  
+**safel** - *uncount.* rain  
 **kuh** - *count.* body  
 **seh** - *count.* face  
 **keldun** - *count.* road, path, trail  
