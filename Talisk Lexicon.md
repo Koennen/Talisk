@@ -4,13 +4,15 @@
 
 *Conjugated forms of verbs must end with a vowel.*  
 
+*The following onsets are explicitly forbidden:* **na**  
+
 **suld** - *vtr.* to drink, lick  
 **unf** - *vtr.* to eat, bite  
 **ad** - *vtr.* to scratch, mark  
 **lek** - *vtr.* to see  
 **ildek** - *vtr.* to seek \[i_d circumfix here denoting more sophisticated
 actions than the base word (lek-)]  
-**ef** - *vtr.* to know  
+**ef** - *vtr.* to know, remember  
 **end** - *vin.* to sleep  
 **ik** - *vin.* to walk, go  
 **nak** - *vin.* to swim  
@@ -43,7 +45,7 @@ is d or t, only i is added]
 **fend** - *vtr.* to greet  
 **mus** - *vin.* to sweat  
 **meld** - *vtr.* to grip, hold  
-**imdeld** - *vtr.* to understand, remember  
+**imdeld** - *vtr.* to understand  
 **sun** - *vtr.* to sing  
 **tand** - *vtr.* to rub  
 **itand** - *vtr.* to clean  
@@ -57,9 +59,13 @@ is d or t, only i is added]
 
 #### Aspectual and Modal Suffixes
 
-*These follow the tense suffix. Many may be stacked. They must begin
-with a consonant and end with a vowel. None may have **h** as their sole
+*These follow the tense suffix but are subservient to it in terms of semantic
+scope (i.e. the tense applies to the word last). Many may be stacked. They must
+begin with a consonant and end with a vowel. None may have **h** as their sole
 consonant.*  
+
+*The following are explicitly forbidden:* **til, tak, ten, nil, nak, nen, fil,
+fak, fen, nu, ku, ke, ne**
 
 **-kla** - to do well  
 **-nkla** - to do badly  
@@ -77,13 +83,15 @@ commands]
 **-khe** - to finish doing (having failed)  
 **-mfi** - to start doing  
 **-da** - to want to do  
-**-tu** - to attempt to do
+**-tu** - to attempt to do  
+**-sa** - to do by accident  
+**-lfi** - to do occasionally, "here and there"  
 
 #### Converbal Suffixes
 
 *These take the place of the tense suffix, and their first vowel is
 consequently stressed. They are either single vowels, or two vowels separated
-by **h**.*  
+by **-h-**.*  
 
 **-a** - combines verbs sequentially  
 
@@ -107,9 +115,44 @@ by **h**.*
 3\[ABS.SG] greet-CVB 1-ERG\[SG] see-PRS  
 "I saw her and she greeted \[me]."  
 
+#### Noun-Deriving Suffixes
+
+*These transform verbs into nouns. They can apply to any tensed verb with or
+without suffixes. They are single consonants. If a verb stem begins with a
+vowel, an **h-** is added to the beginning of the word.*  
+
+**-k** - creates a subject noun (i.e. a noun denoting the agent of a transitive
+verb or the sole argument of an intransitive verb)  
+
+* **Husil-é-nku-lfi-k-il dadan suld-ínu.**  
+take-AOR-FORCEFUL-OCC.-SUBJ-ERG\[SG] blood\[ABS.SG] drink-DIST.PST  
+"A thief drank blood."  
+
+* **Li-kel-é-k mus-í.**
+DIST.DET-run-AOR-SUBJ\[ABS.SG] sweat-PRS  
+"That runner is sweating."  
+
+**-n** - creates an object noun (i.e. a noun denoting the patient of a
+transitive verb)  
+
+* **Naf ihak-il le-dus-íke-n iksal kifl-í-me!**  
+2 four-ERG PROX.DET-give-PROX.FUT-OBJ seven\[ABS] cover-PRS-IMP  
+"You four! Hide (lit. 'cover') these seven gifts (lit. 'soon-to-be-given
+things')!  
+
+**-f** - creates a recipient noun  
+
+* **Hidus-é-f enk-í-mfi.**  
+present-AOR-RECIP\[ABS.SG] sit-PRS-INIT  
+"An audience member (lit. 'one who is presented to') is sitting down (lit.
+'beginning to be seated')."  
+
 ## Nouns
 
 *Nouns must begin and end with a consonant.*  
+
+*The following onsets are explicitly forbidden in multi-syllable nouns:* **ta,
+ha, na, me, le, li**
 
 **lisk** - *count.* person  
 **mink** - *count.* small child  
@@ -128,7 +171,7 @@ by **h**.*
 **sekuln** - *count.* single hair on face  
 **makuln** - *count.* single body hair  
 **flet** - *uncount.* pubic hair  
-**halfénksuftik** - *count.* housefly (lit. 'that which always flies
+**halfénksuk** - *count.* housefly (lit. 'that which always flies
 carelessly')  
 **seldad** - *count.* house  
 **lad** - *count.* interior wall/screen/room divider  
@@ -208,6 +251,11 @@ See
 "I am at your door."  
 Used as a request to enter someone's house. It is more polite than just asking
 to be let in.  
+
+* **Naf fultef ta-dín-en.**  
+2\[ABS.SG\ {door\[ABS.SG] GEN-1\[SG]}-LOC  
+"You are at my door \[and there you will stay]."  
+Used to politely refuse a visitor.  
 
 * **D'fendí!**  
 1\[ABS.SG] greet-PRS  

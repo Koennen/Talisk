@@ -4,11 +4,12 @@ Grammatically, [Talísk](https://github.com/Koennen/Conlangs/blob/main/Talisk.md
 is very regular. The
 [Dime language's](https://en.wikipedia.org/wiki/Dime_language) practice of
 marking case on noun phrases rather than nouns was the feature of the language
-that struck me as the most interesting, and I implemented it here.
+that struck me as the most interesting, and I implemented it here.  
 
 ## General Prefixes
 
-The negating prefix **na-** may attach to any type of word.
+The negating prefix **na-** may attach to any type of word, while the rest may
+only attach to noun phrases.  
 
 | Function               | Prefix     |
 | ---------------------- | ---------- |
@@ -22,7 +23,8 @@ The negating prefix **na-** may attach to any type of word.
 
 ### Cases and Case Affixes
 
-Affixes for case apply after any prefixes because they modify nouns as a whole.
+Affixes for case have outermost semantic scope: they modify noun phrases as a
+whole.  
 
 | Case | Affix   |
 | ---- | ------- |
@@ -43,14 +45,15 @@ All verbs in Talísk begin with a
 Verb stems are either intransitive (taking only one argument) or transitive
 (taking two or more arguments). All transitive verbs in Talísk are strictly so,
 and must take an agent, as the absence of one marks the
-[antipassive](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Grammar.md#the-antipassive).
+[antipassive](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Grammar.md#the-antipassive)
+.  
 
 #### Tense, Aspect, and Mood
 
 Although I considered a tenseless language, Talísk has several tenses. These
 suffixes can (with the exception of the
 [aorist](https://en.wikipedia.org/wiki/Aorist)) be thought of as attaching onto
-the present form.
+the present form.  
 
 | Tense      | Suffix   |
 | ---------- | -------- |
@@ -64,12 +67,12 @@ the present form.
 #### Verbal Suffixes
 
 [Verbal suffixes](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Lexicon.md#verbal-suffixes)
-attach after the tense marker.
+attach after the tense marker.  
 
 ### The Reflexive
 
-The reflexive pronoun **sil** may be used to describe a situation in which the
-agent and patient of a transitive verb are the same.
+The reflexive pronoun **sil** is used to describe a situation in which the agent
+and patient of a transitive verb are the same.  
 
 **Sil naf ul-íku.**  
 REFL\[ERG] 2\[ABS.SG] burn-REC.PST  
@@ -129,7 +132,7 @@ adult\[ABS.SG] see-PRS
 ### The Indefinite: Simulating the Passive
 
 Sometimes the agent of a transitive clause is unknown. In this case, the
-indefinite **menil** may be used.
+indefinite **menil** is used.
 
 **Men-il talif ul-í.**  
 thing-ERG tree\[ABS.SG] burn-PRS  
