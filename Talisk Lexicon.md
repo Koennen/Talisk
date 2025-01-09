@@ -8,7 +8,7 @@
 **unf** - *vtr.* to eat, bite  
 **ad** - *vtr.* to scratch, mark  
 **lek** - *vtr.* to see  
-**ildek** - *vtr.* to seek \[i_d circumfix? here denoting more sophisticated
+**ildek** - *vtr.* to seek \[i_d circumfix here denoting more sophisticated
 actions than the base word (lek-)]  
 **ef** - *vtr.* to know  
 **end** - *vin.* to sleep  
@@ -22,8 +22,8 @@ actions than the base word (lek-)]
 **enk** - *vin.* to sit  
 **fik** - *vin.* to stand  
 **dus** - *vtr.* to give  
-**idus** - *vtr.* to gift, present \[if the first consonant of the stem is d or
-t, only i is added]  
+**idus** - *vtr.* to show, present, display \[if the first consonant of the stem
+is d or t, only i is added]  
 **isk** - *vtr.* to say, tell  
 **ul** - *vtr.* to burn  
 **lut** - *vtr.* to hear  
@@ -38,18 +38,20 @@ t, only i is added]
 **tusk** - *vin.* to age  
 **min** - *vin.* to be born  
 **atsk** - *vin.* to die  
-**usil** - *vtr.* to take/obtain/receive/pick up  
+**usil** - *vtr.* to take, pick up  
 **adusil** - *vtr.* to learn  
 **fend** - *vtr.* to greet  
 **mus** - *vin.* to sweat  
-**meld** - *vtr.* to grip, hold; understand  
+**meld** - *vtr.* to grip, hold  
+**imdeld** - *vtr.* to understand, remember  
 **sun** - *vtr.* to sing  
 **tand** - *vtr.* to rub  
+**itand** - *vtr.* to clean  
 **kifl** - *vtr.* to cover  
 **mask** - *vtr.* to want, need, require  
 **imdask** - *vtr.* to long for  
 **sefk** - *vtr.* to love  
-**kel** - *vin.* to move, walk  
+**kel** - *vin.* to move, walk, go  
 
 ### Verbal Suffixes
 
