@@ -24,7 +24,7 @@ only attach to noun phrases.
 ### Cases and Case Affixes
 
 Affixes for case have outermost semantic scope: they modify noun phrases as a
-whole.  
+whole. As such, they are attached before any prefixes and after any suffixes.  
 
 | Case | Affix   |
 | ---- | ------- |
@@ -67,7 +67,7 @@ the present form.
 #### Verbal Suffixes
 
 [Verbal suffixes](https://github.com/Koennen/Conlangs/blob/main/Talisk%20Lexicon.md#verbal-suffixes)
-attach after the tense marker.  
+attach after the tense marker, though tense has outermost semantic scope.  
 
 ### The Reflexive
 
@@ -89,7 +89,7 @@ end of that state. This usage is uncommon in formal speech.
 **%Sil luk enk-í.**  
 REFL\[ERG] 3\[ABS.SG] sit-PRS  
 lit. "They seat themself."  
-"They sit down." 
+"They sit down."  
 
 **Luk enk-í.**  
 3\[ABS.SG] sit-PRS  

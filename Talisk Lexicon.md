@@ -72,6 +72,7 @@ fak, fen, nu, ku, ke, ne**
 **-ksu** - to do carefully  
 **-nksu** - to do carelessly  
 **-fti** - to do slowly  
+-**ki** - to do quickly  
 **-le** - to do several times in succession  
 **-si** - (of several people) to do individually at the same time, to 'each'
 do  
@@ -125,7 +126,7 @@ vowel, an **h-** is added to the beginning of the word.*
 verb or the sole argument of an intransitive verb)  
 
 * **Husil-é-nku-lfi-k-il dadan suld-ínu.**  
-take-AOR-FORCEFUL-OCC.-SUBJ-ERG\[SG] blood\[ABS.SG] drink-DIST.PST  
+take-AOR-FORCE-OCC.-SUBJ-ERG\[SG] blood\[ABS.SG] drink-DIST.PST  
 "A thief drank blood."  
 
 * **Li-kel-é-k mus-í.**
