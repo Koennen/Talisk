@@ -194,10 +194,13 @@ carelessly')
 
 **din** - *1p sing.*  
 * **hadín** - *1p pl.*  
+
 **naf** - *2p sing.*  
 * **hanáf** - *2p pl.*  
+
 **luk** - *3p sing.* it, they, something  
 * **halúk** - *3p pl.*  
+
 **sil** - *relfexive pronoun*  
 **men** - *'indefinite pronoun'*  
 
