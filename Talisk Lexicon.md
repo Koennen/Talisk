@@ -4,7 +4,8 @@
 
 *Conjugated forms of verbs must end with a vowel.*  
 
-*The following onsets are explicitly forbidden:* **na**  
+*The following onsets are explicitly forbidden in multi-syllable verbs:*
+**na, ta, me, le, li**  
 
 **suld** - *vtr.* to drink, lick  
 **unf** - *vtr.* to eat, bite  
@@ -126,7 +127,7 @@ vowel, an **h-** is added to the beginning of the word.*
 verb or the sole argument of an intransitive verb)  
 
 * **Husil-é-nku-lfi-k-il dadan suld-ínu.**  
-take-AOR-FORCE-OCC.-SUBJ-ERG\[SG] blood\[ABS.SG] drink-DIST.PST  
+take-AOR-FORCE-OCC-SUBJ-ERG\[SG] blood\[ABS.SG] drink-DIST.PST  
 "A thief drank blood."  
 
 * **Li-kel-é-k mus-í.**
@@ -152,8 +153,8 @@ present-AOR-RECIP\[ABS.SG] sit-PRS-INIT
 
 *Nouns must begin and end with a consonant.*  
 
-*The following onsets are explicitly forbidden in multi-syllable nouns:* **ta,
-ha, na, me, le, li**
+*The following onsets are explicitly forbidden in multi-syllable nouns:*
+**na**  
 
 **lisk** - *count.* person  
 **mink** - *count.* small child  
@@ -192,13 +193,13 @@ carelessly')
 *Pronouns must begin and end with a consonant.*  
 
 **din** - *1p sing.*  
-    **hadín** - *1p pl.*  
+* **hadín** - *1p pl.*  
 **naf** - *2p sing.*  
-    **hanáf** - *2p pl.*  
+* **hanáf** - *2p pl.*  
 **luk** - *3p sing.* it, they, something  
-    **halúk** - *3p pl.*  
+* **halúk** - *3p pl.*  
 **sil** - *relfexive pronoun*  
-**men** - *indefinite pronoun*  
+**men** - *'indefinite pronoun'*  
 
 ## Adjectives
 
