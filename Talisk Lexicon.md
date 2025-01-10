@@ -154,9 +154,6 @@ present-AOR-RECIP\[ABS.SG] sit-PRS-INIT
 
 *Nouns must begin and end with a consonant.*  
 
-*The following beginnings are explicitly forbidden in multi-syllable nouns:*
-**na-**  
-
 *The following endings are explicitly forbidden in all nouns:* **-il**, **-ak**,
 **-em**  
 
