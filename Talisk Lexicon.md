@@ -4,8 +4,8 @@
 
 *Conjugated forms of verbs must end with a vowel.*  
 
-*The following onsets are explicitly forbidden in multi-syllable verbs:*
-**na, ta, me, le, li**  
+*The following beginnings are explicitly forbidden in multi-syllable verbs:*
+**na**, **ta**, **me**, **le**, **li**  
 
 **suld** - *vtr.* to drink, lick  
 **unf** - *vtr.* to eat, bite  
@@ -65,8 +65,8 @@ scope (i.e. the tense applies to the word last). Many may be stacked. They must
 begin with a consonant and end with a vowel. None may have **h** as their sole
 consonant.*  
 
-*The following are explicitly forbidden:* **til, tak, ten, nil, nak, nen, fil,
-fak, fen, nu, ku, ke, ne**
+*The following are explicitly forbidden:* **til**, **tak**, **ten**, **nil**,
+**nak**, **nen**, **fil**, **fak**, **fen**, **nu**, **ku**, **ke**, **ne**
 
 **-kla** - to do well  
 **-nkla** - to do badly  
@@ -154,8 +154,11 @@ present-AOR-RECIP\[ABS.SG] sit-PRS-INIT
 
 *Nouns must begin and end with a consonant.*  
 
-*The following onsets are explicitly forbidden in multi-syllable nouns:*
-**na**  
+*The following beginnings are explicitly forbidden in multi-syllable nouns:*
+**na-**  
+
+*The following endings are explicitly forbidden in all nouns:* **-il**, **-ak**,
+**-em**  
 
 **lisk** - *count.* person  
 **mink** - *count.* small child  
