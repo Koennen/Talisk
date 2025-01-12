@@ -101,8 +101,8 @@ by **-h-**.*
 2-ERG\[SG] rock blue eight\[ABS] find-CVB-SUCC take-PRS-IMP 1-DAT\[SG]  
 "Fetch (lit. seek and pick up for) me eight blue rocks."  
 
-* **Luk fend-á din-il lek-í.**  
-3\[ABS.SG] greet-CVB 1-ERG\[SG] see-PRS  
+* **Luk fend-á din-il lek-ínu.**  
+3\[ABS.SG] greet-CVB 1-ERG\[SG] see-DIST.PST  
 "She greeted \[me] and I saw her."  
 
 **-uha** - combines verbs simultaneously
@@ -114,8 +114,8 @@ house-LOC
 
 **-ihi** - combines verbs in reverse chronological order  
 
-* **Luk fend-íhi din-il lek-í.**  
-3\[ABS.SG] greet-CVB 1-ERG\[SG] see-PRS  
+* **Luk fend-íhi din-il lek-ínu.**  
+3\[ABS.SG] greet-CVB 1-ERG\[SG] see-DIST.PST  
 "I saw her and she greeted \[me]."  
 
 #### Noun-Deriving Suffixes
