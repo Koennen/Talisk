@@ -15,7 +15,7 @@
 actions than the base word (lek-)]  
 **ef** - *vtr.* to know, remember  
 **end** - *vin.* to sleep  
-**ik** - *vin.* to walk, go  
+**kel** - *vin.* to walk, go  
 **nak** - *vin.* to swim  
 **indak** - *vin.* to bathe  
 **in** - *vtr.* to kill  
@@ -54,8 +54,11 @@ is d or t, only i is added]
 **mask** - *vtr.* to want, need, require  
 **imdask** - *vtr.* to long for  
 **sefk** - *vtr.* to love  
-**kel** - *vin.* to run  
-
+**ik** - *vin.* to pull  
+**sedk** - *vtr.* to pour  
+**kis** - *vtr.* to cut  
+**tun** - *vin.* to roll  
+**kaf** - *vtr.* to sell  
 ### Verbal Suffixes
 
 #### Aspectual and Modal Suffixes
@@ -152,7 +155,8 @@ present-AOR-RECIP\[ABS.SG] sit-PRS-INIT
 
 ## Nouns
 
-*Nouns must begin and end with a consonant.*  
+*Nouns must begin and end with a consonant (not **h**).
+Nouns derived from verbs may begin with **h-**.  
 
 *The following endings are explicitly forbidden in all nouns:* **-il**, **-ak**,
 **-em**  
@@ -169,7 +173,7 @@ present-AOR-RECIP\[ABS.SG] sit-PRS-INIT
 **dan** - *count.* luggable stone  
 **fets** - *count.* boulder, cliff face, immovable stone  
 **ken** - *count.* thread, twine  
-**huken** - *count.* thick rope  
+**duken** - *count.* thick rope  
 **kuln** - *count.* single hair on head  
 **sekuln** - *count.* single hair on face  
 **makuln** - *count.* single body hair  
@@ -182,12 +186,19 @@ carelessly')
 **fultef** - *count.* door/gate  
 **kim** - *count.* friend  
 **safel** - *uncount.* rain  
-**kuh** - *count.* body  
-**seh** - *count.* face  
-**keldun** - *count.* road, path, trail  
+**kus** - *count.* body  
+**sen** - *count.* face  
+**kelhem** - *count.* road, path, trail  
 **denis** - *count.* lake  
 **deslin** - *count.* ocean  
 **dadan** - *count.* blood  
+**kufhem** - *count.* marketplace  
+**dikt** - *count.* fingers, hand, wrist  
+**nifk** - *count.* sun  
+**klus** - *count.* moon  
+**salf** - *count.* small bird  
+**felen** - *count.* cool wind, breeze  
+**hulék** - *count.* fire  
 
 ## Pronouns
 
