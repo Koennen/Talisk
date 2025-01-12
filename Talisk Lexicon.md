@@ -59,6 +59,7 @@ is d or t, only i is added]
 **kis** - *vtr.* to cut  
 **tun** - *vin.* to roll  
 **kaf** - *vtr.* to sell  
+
 ### Verbal Suffixes
 
 #### Aspectual and Modal Suffixes
