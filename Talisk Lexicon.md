@@ -93,6 +93,10 @@ commands]
 **-sa** - to do by accident  
 **-lfi** - to do occasionally, "here and there"  
 
+* **Ha-lúk kel-ínu-ki ha-túk ta-le-tálif-em.**  
+PL-3\[ABS] walk-DIST.PST-QUICKLY {PL-side GEN-PROX.DET-tree}-LOC  
+"They ran (lit. walked quickly) around (lit. at the sides of) this tree."  
+
 #### Converbal Suffixes
 
 *These take the place of the tense suffix, and their first vowel is
@@ -133,11 +137,11 @@ verb or the sole argument of an intransitive verb)
 
 * **Husil-é-nku-lfi-k-il dadan suld-ínu.**  
 take-AOR-FORCE-OCC-SUBJ-ERG\[SG] blood\[ABS.SG] drink-DIST.PST  
-"A thief drank blood."  
+"A thief (lit. one who takes by force every now and then) drank blood."  
 
-* **Li-kel-é-k mus-í.**
-DIST.DET-run-AOR-SUBJ\[ABS.SG] sweat-PRS  
-"That runner is sweating."  
+* **Li-kel-é-ki-k mus-í.**
+DIST.DET-walk-AOR-QUICKLY-SUBJ\[ABS.SG] sweat-PRS  
+"That runner (lit. one who walks quickly) is sweating."  
 
 **-n** - creates an object noun (i.e. a noun denoting the patient of a
 transitive verb)  
@@ -159,8 +163,8 @@ present-AOR-RECIP\[ABS.SG] sit-PRS-INIT
 *Nouns must begin and end with a consonant (not **h**).
 Nouns derived from verbs may begin with **h-**.  
 
-*The following endings are explicitly forbidden in all nouns:* **-il**, **-ak**,
-**-em**  
+*The following endings are explicitly forbidden in non-derived nouns:*
+**-il, -ak, -em**  
 
 **lisk** - *count.* person  
 **mink** - *count.* small child  
@@ -195,11 +199,16 @@ carelessly')
 **dadan** - *count.* blood  
 **kufhem** - *count.* marketplace  
 **dikt** - *count.* fingers, hand, wrist  
-**nifk** - *count.* sun  
+**saten** - *count.* sun  
 **klus** - *count.* moon  
 **salf** - *count.* small bird  
 **felen** - *count.* cool wind, breeze  
 **hulék** - *count.* fire  
+**deln** - *count.* front (of an object)  
+**kulin** - *count.* back (of an object)  
+**tuk** - *count.* side (of an object)  
+**melis** - *count.* top (of an object)  
+**timf** - *count.* bottom (of an object)  
 
 ## Pronouns
 
@@ -223,8 +232,7 @@ carelessly')
 ## Adjectives
 
 *All adjectives must end with a consonant.*  
-*Standard adjectives and those derived from verbs (of the form **e** +
-\[verb w/ neutral vowel] + **s**) must begin with a vowel.*  
+*Standard adjectives and those derived from verbs () must begin with a vowel.*  
 
 **ahun** - small  
 **inin** - big  
