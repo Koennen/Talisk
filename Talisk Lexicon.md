@@ -23,7 +23,7 @@ actions than the base word (lek-)]
 **ket** - *vin.* to come  
 **uk** - *vin.* to lie (on side), relax, rest  
 **enk** - *vin.* to sit  
-**fik** - *vin.* to stand  
+**ful** - *vin.* to stand  
 **dus** - *vtr.* to give  
 **idus** - *vtr.* to show, present, display \[if the first consonant of the stem
 is d or t, only i is added]  
@@ -59,6 +59,7 @@ is d or t, only i is added]
 **kis** - *vtr.* to cut  
 **tun** - *vin.* to roll  
 **kaf** - *vtr.* to sell  
+**fik** - *vin.* to feel hurt, ache  
 
 ### Verbal Suffixes
 
@@ -191,7 +192,7 @@ carelessly')
 **fultef** - *count.* door/gate  
 **kim** - *count.* friend  
 **safel** - *uncount.* rain  
-**kus** - *count.* body  
+**mand** - *count.* body  
 **sen** - *count.* face  
 **kelhem** - *count.* road, path, trail  
 **denis** - *count.* lake  
@@ -209,6 +210,11 @@ carelessly')
 **tuk** - *count.* side (of an object)  
 **melis** - *count.* top (of an object)  
 **timf** - *count.* bottom (of an object)  
+**mens** - *count.* flat surface  
+**tefet** - *count.* edge  
+**selad** - *count.* surface, face (of an object)  
+**malad** - *count.* entire surface, peel, rind (of an object)  
+**tef** - *count.* line  
 
 ## Pronouns
 
