@@ -60,6 +60,7 @@ is d or t, only i is added]
 **tun** - *vin.* to roll  
 **kaf** - *vtr.* to sell  
 **fik** - *vin.* to feel hurt, ache  
+**sel** - *vin.* to relax, unwind  
 
 ### Verbal Suffixes
 
@@ -116,10 +117,10 @@ by **-h-**.*
 
 **-uha** - combines verbs simultaneously
 
-* **Naf-il le-núlus meld-úha-ksu al-í-fti-me seldad-em.**  
+* **Naf-il le-núlus meld-úha-ksu al-í-fti-me ha-sálf-em.**  
 2-ERG\[SG] PROX.DET-sand\[ABS.SG] grasp-CVB-CAREFUL form-PRS-SLOWLY-IMP
-house-LOC  
-"As you carefully hold the sand, slowly form it into houses."  
+small bird-LOC  
+"As you carefully hold the sand, slowly form it into birds."  
 
 **-ihi** - combines verbs in reverse chronological order  
 
@@ -186,7 +187,7 @@ Nouns derived from verbs may begin with **h-**.*
 **flet** - *uncount.* pubic hair  
 **halfénksuk** - *count.* housefly (lit. 'that which always flies
 carelessly')  
-**seldad** - *count.* house  
+**seldad** - *count.* hearth, home  
 **lad** - *count.* interior wall/screen/room divider  
 **smul** - *count.* exterior wall  
 **fultef** - *count.* door/gate  
