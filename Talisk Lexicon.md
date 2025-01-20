@@ -212,8 +212,11 @@ carelessly')
 **timf** - *count.* bottom (of an object)  
 **mens** - *count.* flat surface  
 **tefet** - *count.* edge  
-**selad** - *count.* surface, face (of an object)  
-**malad** - *count.* entire surface, peel, rind (of an object)  
+**sesmul** - *count.* surface, face, side (of an object)  
+**selad** - *count.* interior face, side (of an object)  
+**masmul** - *count.* whole outer surface, peel, rind (of an object)  
+**malad** - *count.* whole inner surface, pith (of an object)  
+**dadun** - *count.* core, center (of an object)  
 **tef** - *count.* line  
 
 ## Pronouns
