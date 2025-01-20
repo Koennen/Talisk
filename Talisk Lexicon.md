@@ -162,7 +162,7 @@ present-AOR-RECIP\[ABS.SG] sit-PRS-INIT
 ## Nouns
 
 *Nouns must begin and end with a consonant (not **h**).
-Nouns derived from verbs may begin with **h-**.  
+Nouns derived from verbs may begin with **h-**.*  
 
 *The following endings are explicitly forbidden in non-derived nouns:*
 **-il, -ak, -em**  
