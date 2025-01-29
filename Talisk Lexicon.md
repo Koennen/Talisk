@@ -42,25 +42,36 @@ is d or t, only i is added]
 **min** - *vin.* to be born  
 **atsk** - *vin.* to die  
 **usil** - *vtr.* to take, pick up  
-**adusil** - *vtr.* to learn  
+**slik** - *vin.* to stick, adhere  
+**adusil** - *vtr.* to clean, dust  
 **fend** - *vtr.* to greet  
 **mus** - *vin.* to sweat  
 **meld** - *vtr.* to grip, hold  
 **imdeld** - *vtr.* to understand  
+**malf** - *vtr.* to let go of, drop   
+**imdalf** - *vtr.* to forget  
 **sun** - *vtr.* to sing  
 **tand** - *vtr.* to rub, pet  
-**itand** - *vtr.* to clean  
+**itand** - *vtr.* to scrub, polish  
 **kifl** - *vtr.* to cover  
 **mask** - *vtr.* to want, need, require  
 **imdask** - *vtr.* to long for  
 **sefk** - *vtr.* to love  
-**ik** - *vin.* to pull  
+**ik** - *vtr.* to pull  
 **sedk** - *vtr.* to pour  
+
+* **sedk-\[TENSE]-sa** - *vtr.* to spill  
+
 **kis** - *vtr.* to cut  
 **tun** - *vin.* to roll  
 **kaf** - *vtr.* to sell  
 **fik** - *vin.* to feel hurt, ache  
-**sel** - *vin.* to relax, unwind  
+**sel** - *vin.* to go slack  
+**isdel** - *vin.* to pass out, faint  
+**tak** - *vin.* to fall  
+**nun** - *vin.* to breathe  
+**felk** - *vin.* to glow, emit light  
+**dulin** - *vin.* to shine, reflect  
 
 ### Verbal Suffixes
 
@@ -94,10 +105,24 @@ commands]
 **-tu** - to attempt to do  
 **-sa** - to do by accident  
 **-lfi** - to do occasionally, "here and there"  
+**-de** - to be able to do  
 
 * **Ha-lúk kel-ínu-ki ha-túk ta-le-tálif-em.**  
 PL-3\[ABS] walk-DIST.PST-QUICKLY {PL-side GEN-PROX.DET-tree}-LOC  
 "They ran (lit. walked quickly) around (lit. at the sides of) this tree."  
+
+#### Adjective-Deriving Suffix
+
+*This suffix takes the place of the tense suffix and is consequently stressed.
+The derived meaning is not always obvious but typically refers to some
+resultant state or characteristic of the experiencer of the verb. As such, this
+suffix attaches primarily to intransitive verbs.*  
+
+**-u** - produces a proto-adjective (to be followed by the empty adjective)  
+
+* **Ha-díkt ta-lúk mus-ú eln-il duken na-meld-ínu-de.**  
+PL-hand GEN-3 sweat-ADJ {}-ERG rope NEG-grip-DIST.PST-can  
+"His sweaty hands could not grip the rope."  
 
 #### Converbal Suffixes
 
@@ -162,7 +187,8 @@ present-AOR-RECIP\[ABS.SG] sit-PRS-INIT
 
 ## Nouns
 
-*Nouns must begin and end with a consonant (not **h**).
+*Nouns must begin and end with a consonant (not **h**), nor may the
+final syllable begin with **h-** unless the noun is derived.
 Nouns derived from verbs may begin with **h-**.*  
 
 *The following endings are explicitly forbidden in non-derived nouns:*
@@ -219,6 +245,9 @@ carelessly')
 **malad** - *count.* whole inner surface, pith (of an object)  
 **dadun** - *count.* core, center (of an object)  
 **tef** - *count.* line  
+**kulud** - *count.* cup  
+**sekulud** - *count.* spoon  
+**makulud** - count. bucket  
 
 ## Pronouns
 
@@ -236,18 +265,31 @@ carelessly')
 
 * **halúk** - *3p pl.*  
 
+**kan** - *3p sing.* it, they, something (a party separate from **luk**)  
+
+* **hakán** - *3p pl.*  
+
 **sil** - *relfexive pronoun*  
 **men** - *'indefinite pronoun'*  
 
 ## Adjectives
 
 *All adjectives must end with a consonant.*  
-*Standard adjectives and those derived from verbs () must begin with a vowel.*  
+*Standard adjectives must begin with a vowel.*  
 
 **ahun** - small  
 **inin** - big  
-**etuskes**  - old  
-**emines** - young  
+**elsat** - bothersome, annoying, stupid  
+
+* **Dind elsat ta-náf-il din unf-íku!**  
+dog\[ABS.SG] stupid GEN-2-ERG\[SG] 1\[ABS.SG] bite-REC.PST  
+"Your stupid dog just bit me!"  
+
+*Adjectives derived from verbs are followed by the "empty
+adjective"* **eln**, *on which case is marked.*  
+
+**tuskú eln**  - old  
+**minú eln** - young  
 
 *Adjectives derived from nouns must begin with **ne-**.*  
 

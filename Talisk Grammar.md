@@ -144,6 +144,19 @@ thing-ERG adult\[ABS.SG] see-PRS
 lit. "Something sees an adult."  
 "An adult is being seen."  
 
+### The Causative
+
+Just as verbs can reduce their valency through the antipassive, so too
+can they increase it with the causative.
+
+**Salf-il dind tak-ínu denis-em.**  
+bird-ERG\[SG] dog\[ABS.SG] fall-DIST.PST lake-LOC\[SG]  
+"The bird made the dog fall into the lake."  
+
+**Safel-il din-ak ha-kulud malf-í-sa.**  
+rain-ERG 1-DAT\[SG] PL-cup\[ABS] drop-PRS-ACCIDENT  
+"The rain is making me accidentally drop some cups."  
+
 ## Syntax
 
 Talísk is primarily SOV. Adjectives and numerals follow the nouns they modify,
