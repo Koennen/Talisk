@@ -159,7 +159,7 @@ small bird-LOC
 without suffixes. They are single consonants. If a verb stem begins with a
 vowel, an **h-** is added to the beginning of the word.*  
 
-**-k** - creates a subject noun (i.e. a noun denoting the agent of a transitive
+**-k** - creates an animate subject noun (i.e. a noun denoting the agent of a transitive
 verb or the sole argument of an intransitive verb)  
 
 * **Husil-é-nku-lfi-k-il dadan suld-ínu.**  
@@ -168,7 +168,14 @@ take-AOR-FORCE-OCC-SUBJ-ERG\[SG] blood\[ABS.SG] drink-DIST.PST
 
 * **Li-kel-é-ki-k mus-í.**
 DIST.DET-walk-AOR-QUICKLY-SUBJ\[ABS.SG] sweat-PRS  
-"That runner (lit. one who walks quickly) is sweating."  
+"That runner (lit. one who walks quickly) is sweating."
+
+**-s** - creates an *inanimate* subject noun. This can also be used as an instrumental
+marker  
+
+* **Naf-il le-hul-é-s dus-í-me din-at.**  
+2-ERG\[SG] PROX.DET-burn-AOR-SUBJ\[ABS.SG] give-PRS-IMP 1-DAT\[SG]  
+"Hand me the lighter (lit. burner)."
 
 **-n** - creates an object noun (i.e. a noun denoting the patient of a
 transitive verb)  
