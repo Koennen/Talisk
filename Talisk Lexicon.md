@@ -11,11 +11,13 @@
 **unf** - *vtr.* to eat, bite  
 **ad** - *vtr.* to scratch, mark  
 **lek** - *vtr.* to see  
-**ildek** - *vtr.* to seek \[i_d circumfix here denoting more sophisticated
-actions than the base word (lek-)]  
+**ildek** - *vtr.* to seek  
 **ef** - *vtr.* to know, remember  
 **end** - *vin.* to sleep  
 **kel** - *vin.* to walk, go  
+
+* **kel-\[TENSE]-ki** - *vin.* to run  
+
 **nak** - *vin.* to swim  
 **indak** - *vin.* to bathe  
 **in** - *vtr.* to kill  
@@ -25,13 +27,12 @@ actions than the base word (lek-)]
 **enk** - *vin.* to sit  
 **ful** - *vin.* to stand  
 **dus** - *vtr.* to give  
-**idus** - *vtr.* to show, present, display \[if the first consonant of the stem
-is d or t, only i is added]  
+**idus** - *vtr.* to show, present, display  
 **isk** - *vtr.* to say, tell  
 **ul** - *vtr.* to burn  
 **lut** - *vtr.* to hear  
-**adul** - *vtr.* to cook \[becomes ad when the stem has no initial consonant]  
-**kenal** - *vtr.* to bind \[derived from a noun (ken)]  
+**adul** - *vtr.* to cook  
+**kenal** - *vtr.* to bind  
 **del** - *vin.* to laugh  
 **sul** - *vin.* to cry  
 **isdul** - *vin.* to mourn  
@@ -48,7 +49,7 @@ is d or t, only i is added]
 **mus** - *vin.* to sweat  
 **meld** - *vtr.* to grip, hold  
 **imdeld** - *vtr.* to understand  
-**malf** - *vtr.* to let go of, drop   
+**malf** - *vtr.* to let go of, drop  
 **imdalf** - *vtr.* to forget  
 **sun** - *vtr.* to sing  
 **tand** - *vtr.* to rub, pet  
@@ -56,15 +57,18 @@ is d or t, only i is added]
 **kifl** - *vtr.* to cover  
 **mask** - *vtr.* to want, need, require  
 **imdask** - *vtr.* to long for  
-**sefk** - *vtr.* to love  
+**sefk** - *vtr.* to love (familial)  
 **ik** - *vtr.* to pull  
+**falik** - *vtr.* to push  
 **sedk** - *vtr.* to pour  
 
 * **sedk-\[TENSE]-sa** - *vtr.* to spill  
 
 **kis** - *vtr.* to cut  
+**ikdis** -*vtr.* to shave  
 **tun** - *vin.* to roll  
-**kaf** - *vtr.* to sell  
+**kuf** - *vtr.* to sell  
+**fakuf** - *vtr.* to buy  
 **fik** - *vin.* to feel hurt, ache  
 **sel** - *vin.* to go slack  
 **isdel** - *vin.* to pass out, faint  
@@ -72,6 +76,8 @@ is d or t, only i is added]
 **nun** - *vin.* to breathe  
 **felk** - *vin.* to glow, emit light  
 **dulin** - *vin.* to shine, reflect  
+**nas** - *vin.* to play  
+**inakt** - *vtr.* to point out, highlight, point to  
 
 ### Verbal Suffixes
 
@@ -106,6 +112,8 @@ commands]
 **-sa** - to do by accident  
 **-lfi** - to do occasionally, "here and there"  
 **-de** - to be able to do  
+**nte** - to have to do  
+**mfe** - subjunctive  
 
 * **Ha-lúk kel-ínu-ki ha-túk ta-le-tálif-em.**  
 PL-3\[ABS] walk-DIST.PST-QUICKLY {PL-side GEN-PROX.DET-tree}-LOC  
@@ -153,14 +161,14 @@ small bird-LOC
 3\[ABS.SG] greet-CVB 1-ERG\[SG] see-DIST.PST  
 "I saw her and she greeted \[me]."  
 
-#### Noun-Deriving Suffixes
+#### Tensed Noun-Deriving Suffixes
 
 *These transform verbs into nouns. They can apply to any tensed verb with or
 without suffixes. They are single consonants. If a verb stem begins with a
 vowel, an **h-** is added to the beginning of the word.*  
 
-**-k** - creates an animate subject noun (i.e. a noun denoting the agent of a transitive
-verb or the sole argument of an intransitive verb)  
+**-k** - creates an animate subject noun (i.e. a noun denoting the agent of a
+transitive verb or the sole argument of an intransitive verb)  
 
 * **Husil-é-nku-lfi-k-il dadan suld-ínu.**  
 take-AOR-FORCE-OCC-SUBJ-ERG\[SG] blood\[ABS.SG] drink-DIST.PST  
@@ -170,8 +178,8 @@ take-AOR-FORCE-OCC-SUBJ-ERG\[SG] blood\[ABS.SG] drink-DIST.PST
 DIST.DET-walk-AOR-QUICKLY-SUBJ\[ABS.SG] sweat-PRS  
 "That runner (lit. one who walks quickly) is sweating."
 
-**-s** - creates an *inanimate* subject noun. This can also be used as an instrumental
-marker  
+**-s** - creates an *inanimate* subject noun. This can also be used as an
+instrumental marker  
 
 * **Naf-il le-hul-é-s dus-í-me din-at.**  
 2-ERG\[SG] PROX.DET-burn-AOR-SUBJ\[ABS.SG] give-PRS-IMP 1-DAT\[SG]  
@@ -191,6 +199,11 @@ things')!
 present-AOR-RECIP\[ABS.SG] sit-PRS-INIT  
 "An audience member (lit. 'one who is presented to') is sitting down (lit.
 'beginning to be seated')."  
+
+#### Un-Tensed Noun-Deriving Suffixes
+
+**-hem** - creates a location where the action of the verb is characteristically
+performed  
 
 ## Nouns
 
@@ -218,8 +231,7 @@ Nouns derived from verbs may begin with **h-**.*
 **sekuln** - *count.* single hair on face  
 **makuln** - *count.* single body hair  
 **flet** - *uncount.* pubic hair  
-**halfénksuk** - *count.* housefly (lit. 'that which always flies
-carelessly')  
+**halfénksuk** - *count.* housefly (lit. 'that which always flies carelessly')  
 **seldad** - *count.* hearth, home  
 **lad** - *count.* interior wall/screen/room divider  
 **smul** - *count.* exterior wall  
@@ -228,11 +240,11 @@ carelessly')
 **safel** - *uncount.* rain  
 **mand** - *count.* body  
 **sen** - *count.* face  
-**kelhem** - *count.* road, path, trail  
+**kelhém** - *count.* road, path, trail  
 **denis** - *count.* lake  
 **deslin** - *count.* ocean  
 **dadan** - *count.* blood  
-**kufhem** - *count.* marketplace  
+**kufhém** - *count.* marketplace  
 **dikt** - *count.* fingers, hand, wrist  
 **saten** - *count.* sun  
 **klus** - *count.* moon  
@@ -254,7 +266,11 @@ carelessly')
 **tef** - *count.* line  
 **kulud** - *count.* cup  
 **sekulud** - *count.* spoon  
-**makulud** - count. bucket  
+**makulud** - *count.* bucket  
+**tanak** - *count.* younger sister  
+**kaltan** - *count.* older sister  
+**nelin** - *count.* younger brother  
+**fulsed** - *count.* older brother  
 
 ## Pronouns
 
@@ -331,6 +347,28 @@ See
 **esim** - six (6)  
 **iksal** - seven (7)  
 **akhand** - eight (10)  
+
+## Adverbs and Frames
+
+Before the verb, these words act as "frames" that situate the sentence in time
+and/or space. After the verb, these represent destinations (if applicable). This
+distinction is akin to that made in these sentences in German:  
+
+* **Ich gehe im Park.**  
+I walk in the park.  
+
+* **Ich gehe ins Park.**  
+I walk into the park.  
+
+Any noun in the locative case also functions in this manner.  
+
+**sem** - here  
+**sul\'{e}m** - *hypothetical frame*: if so  
+
+## Particles and Interjections
+
+**alka** - used to express agreement with the last thing said  
+**e** - copular particle  
 
 ## Expressions
 
