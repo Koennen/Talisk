@@ -76,6 +76,8 @@ i, u, e, a
 | **nl**              |     |     | nls |
 | **lt**              |     |     | lts |
 | **lk**              |     |     | lks |
+| **lm**              |     |     | lms |
+| **ln**              |     |     | lns |
 | **lf**              | lft |     | lfs |
 
-This yields 7 344 possible syllables.
+This yields 7 560 possible syllables.
