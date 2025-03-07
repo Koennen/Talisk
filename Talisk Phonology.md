@@ -62,22 +62,22 @@ i, u, e, a
 | **h**        | h       | ht  | hk  | hm  | hn  | hf  | hd  |     |     |     |
 | **l**        | l       | lt  | lk  | lm  | ln  | lf  | ls  | ld  | lh  |     |
 
-| ***Finals, cont.*** | t   | k   | s   |
-| ------------------- | --- | --- | --- |
-| **ts**              | tst | tsk |     |
-| **tl**              |     |     | tls |
-| **kt**              |     |     | kts |
-| **ks**              | kst | ksk |     |
-| **kl**              |     |     | kls |
-| **mf**              | mft |     | mfs |
-| **ml**              |     |     | mls |
-| **nt**              |     |     | nts |
-| **nk**              |     |     | nks |
-| **nl**              |     |     | nls |
-| **lt**              |     |     | lts |
-| **lk**              |     |     | lks |
-| **lm**              |     |     | lms |
-| **ln**              |     |     | lns |
-| **lf**              | lft |     | lfs |
+| ***Finals, cont.*** | t   | k   | f   | s   |
+| ------------------- | --- | --- | --- | --- |
+| **ts**              | tst | tsk |     |     |
+| **tl**              |     |     |     | tls |
+| **kt**              |     |     |     | kts |
+| **ks**              | kst | ksk |     |     |
+| **kl**              |     |     |     | kls |
+| **mf**              | mft |     |     | mfs |
+| **ml**              |     |     |     | mls |
+| **nt**              |     |     |     | nts |
+| **nk**              |     |     |     | nks |
+| **nl**              |     |     |     | nls |
+| **lt**              |     |     |     | lts |
+| **lk**              |     |     |     | lks |
+| **lm**              |     |     | lmf |     |
+| **ln**              |     |     |     | lns |
+| **lf**              | lft |     |     | lfs |
 
 This yields 7 560 possible syllables.
