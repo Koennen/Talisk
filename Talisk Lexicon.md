@@ -354,11 +354,11 @@ Before the verb, these words act as "frames" that situate the sentence in time
 and/or space. After the verb, these represent destinations (if applicable). This
 distinction is akin to that made in these sentences in German:  
 
-* **Ich gehe im Park.**  
-I walk in the park.  
+* **Ich gehe im Haus.**  
+I walk in the house.  
 
-* **Ich gehe ins Park.**  
-I walk into the park.  
+* **Ich gehe ins Haus.**  
+I walk into the house.  
 
 Any noun in the locative case also functions in this manner.  
 
