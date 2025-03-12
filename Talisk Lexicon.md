@@ -126,7 +126,7 @@ commands]
 **nte** - to have to do  
 **mfe** - *subjunctive*  
 
-* **Le-sfiném-em ha-lúk kel-ínu-ki ha-túk ta-le-tálif-em.**  
+* **Le-sfinhém-em ha-lúk kel-ínu-ki ha-túk ta-le-tálif-em.**  
 PROX.DET-park-LOC\[SG] PL-3\[ABS] walk-DIST.PST-QUICKLY
 {PL-side GEN-PROX.DET-tree}-LOC  
 "In the park, they ran (lit. walked quickly) around (lit. at the sides of)
@@ -284,7 +284,7 @@ Nouns derived from verbs may begin with **h-**.*
 **kaltan** - *count.* older sister  
 **nelin** - *count.* younger brother  
 **fulsed** - *count.* older brother  
-**sfiném** - *count.* park  
+**sfinhém** - *count.* park  
 
 ## Pronouns
 
