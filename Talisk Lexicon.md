@@ -78,6 +78,17 @@
 **dulin** - *vin.* to shine, reflect  
 **nas** - *vin.* to play  
 **inakt** - *vtr.* to point out, highlight, point to  
+**tlelm** - *vtr.* to rise, move upward  
+**ksefs** - *vtr.* to rot  
+**tlak** - *vtr.* to carry, transport  
+**khenk** - *vtr.* to fight  
+**mfelk** - *vtr.* to mat, press together, interlock  
+
+* **mfelk-\[TENSE]-nkla** - *vtr.* to tangle  
+* **mfelk-\[TENSE]-kla** - *vtr.* to weave (as in a blanket or tapestry)  
+
+**mfank** - *vtr.* to join through external means, using a binding agent  
+**sfin** - *vin.* take time to oneself, relax  
 
 ### Verbal Suffixes
 
@@ -113,11 +124,13 @@ commands]
 **-lfi** - to do occasionally, "here and there"  
 **-de** - to be able to do  
 **nte** - to have to do  
-**mfe** - subjunctive  
+**mfe** - *subjunctive*  
 
-* **Ha-lúk kel-ínu-ki ha-túk ta-le-tálif-em.**  
-PL-3\[ABS] walk-DIST.PST-QUICKLY {PL-side GEN-PROX.DET-tree}-LOC  
-"They ran (lit. walked quickly) around (lit. at the sides of) this tree."  
+* **Le-sfiném-em ha-lúk kel-ínu-ki ha-túk ta-le-tálif-em.**  
+PROX.DET-park-LOC\[SG] PL-3\[ABS] walk-DIST.PST-QUICKLY
+{PL-side GEN-PROX.DET-tree}-LOC  
+"In the park, they ran (lit. walked quickly) around (lit. at the sides of)
+this tree."  
 
 #### Adjective-Deriving Suffix
 
@@ -271,6 +284,7 @@ Nouns derived from verbs may begin with **h-**.*
 **kaltan** - *count.* older sister  
 **nelin** - *count.* younger brother  
 **fulsed** - *count.* older brother  
+**sfiném** - *count.* park  
 
 ## Pronouns
 
